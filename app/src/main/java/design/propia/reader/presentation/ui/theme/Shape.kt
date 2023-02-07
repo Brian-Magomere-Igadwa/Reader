@@ -1,4 +1,4 @@
-package design.propia.reader.ui.theme
+package design.propia.reader.presentation.ui.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
